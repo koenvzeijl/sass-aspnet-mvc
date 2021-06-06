@@ -1,0 +1,14 @@
+﻿@import 'variables';
+@import 'buttons';
+
+body {
+    background-color: $background-color;
+}
+
+html, body {
+    height: 100%;
+}
+
+*, *:focus, *:hover {
+    outline: none;
+}

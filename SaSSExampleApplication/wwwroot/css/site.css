@@ -1,0 +1,20 @@
+button, a.button {
+  background-color: aquamarine;
+  border-radius: 5px;
+  text-transform: uppercase;
+  padding: 10px;
+}
+
+body {
+  background-color: #FAFBFC;
+}
+
+html, body {
+  height: 100%;
+}
+
+*, *:focus, *:hover {
+  outline: none;
+}
+
+/*# sourceMappingURL=site.css.map */
